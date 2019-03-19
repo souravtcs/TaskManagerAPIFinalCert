@@ -11,8 +11,7 @@ using TaskManagerAPI.Models;
 
 namespace TaskManagerAPI.Controllers
 {
-    [EnableCors(origins: "http://localhost:4200", headers: "*", methods: "*")]
-    //[EnableCors(origins: "http://localhost:4201", headers: "*", methods: "*")]
+    [EnableCors(origins: "http://localhost:4201", headers: "*", methods: "*")]    
     public class UserController : ApiController
     {
         private ILogger _log;
