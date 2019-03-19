@@ -1,0 +1,27 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Common\bin\Release\Common.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Common\bin\Release\Common.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Common\bin\Release\log4net.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Common\bin\Release\log4net.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Common\obj\Release\Common.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Common\obj\Release\Common.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\TaskManagerAPI\Common\bin\Release\Common.dll
+C:\TaskManagerAPI\Common\bin\Release\Common.pdb
+C:\TaskManagerAPI\Common\bin\Release\log4net.dll
+C:\TaskManagerAPI\Common\bin\Release\log4net.xml
+C:\TaskManagerAPI\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\TaskManagerAPI\Common\obj\Release\Common.dll
+C:\TaskManagerAPI\Common\obj\Release\Common.pdb
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Common\bin\Release\Common.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Common\bin\Release\Common.pdb
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Common\bin\Release\log4net.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Common\bin\Release\log4net.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Common\obj\Release\Common.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Common\obj\Release\Common.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\bin\Release\Common.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\bin\Release\Common.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\bin\Release\log4net.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\bin\Release\log4net.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\obj\Release\Common.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\obj\Release\Common.pdb

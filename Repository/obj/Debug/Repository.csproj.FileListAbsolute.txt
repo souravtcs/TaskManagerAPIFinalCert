@@ -1,0 +1,38 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Repository\bin\Debug\Repository.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Repository\bin\Debug\Repository.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Repository\bin\Debug\Repository.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Repository\obj\Debug\Repository.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Repository\obj\Debug\Repository.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\TaskManagerAPI\Repository\bin\Debug\Repository.dll.config
+C:\TaskManagerAPI\Repository\bin\Debug\Repository.dll
+C:\TaskManagerAPI\Repository\bin\Debug\Repository.pdb
+C:\TaskManagerAPI\Repository\bin\Debug\EntityFramework.dll
+C:\TaskManagerAPI\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\TaskManagerAPI\Repository\bin\Debug\EntityFramework.xml
+C:\TaskManagerAPI\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\TaskManagerAPI\Repository\obj\Debug\Repository.dll
+C:\TaskManagerAPI\Repository\obj\Debug\Repository.pdb
+C:\TaskManagerAPI\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Debug\Repository.dll.config
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Debug\Repository.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Debug\Repository.pdb
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\obj\Debug\Repository.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\obj\Debug\Repository.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Debug\Repository.dll.config
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Debug\Repository.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Debug\Repository.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\obj\Debug\Repository.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\obj\Debug\Repository.pdb

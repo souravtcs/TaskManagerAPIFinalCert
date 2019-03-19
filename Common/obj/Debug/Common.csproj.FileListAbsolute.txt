@@ -1,0 +1,26 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Common\bin\Debug\Common.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Common\bin\Debug\Common.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Common\obj\Debug\Common.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Common\obj\Debug\Common.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Common\bin\Debug\log4net.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Common\bin\Debug\log4net.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\TaskManagerAPI\Common\bin\Debug\Common.dll
+C:\TaskManagerAPI\Common\bin\Debug\Common.pdb
+C:\TaskManagerAPI\Common\bin\Debug\log4net.dll
+C:\TaskManagerAPI\Common\bin\Debug\log4net.xml
+C:\TaskManagerAPI\Common\obj\Debug\Common.dll
+C:\TaskManagerAPI\Common\obj\Debug\Common.pdb
+C:\TaskManagerAPI\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Common\bin\Debug\Common.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Common\bin\Debug\Common.pdb
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Common\bin\Debug\log4net.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Common\bin\Debug\log4net.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Common\obj\Debug\Common.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Common\obj\Debug\Common.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\bin\Debug\Common.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\bin\Debug\Common.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\bin\Debug\log4net.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\bin\Debug\log4net.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\obj\Debug\Common.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Common\obj\Debug\Common.pdb

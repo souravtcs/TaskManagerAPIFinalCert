@@ -1,0 +1,236 @@
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\ApplicationInsights.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\APITest.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\APITest.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\APITest.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Castle.Core.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Common.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Moq.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Repository.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\TaskManagerAPI.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\log4net.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Optimization.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Mvc.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Http.Cors.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Razor.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Cors.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Common.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Repository.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Repository.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\TaskManagerAPI.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\TaskManagerAPI.dll.config
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Castle.Core.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Moq.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Moq.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\log4net.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Optimization.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Mvc.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Http.Cors.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Razor.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\obj\Release\APITest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\obj\Release\APITest.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\obj\Release\APITest.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Http.dll
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\APITest\bin\Release\System.Web.Http.xml
+C:\TaskManagerAPI\APITest\bin\Release\ApplicationInsights.config
+C:\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TaskManagerAPI\APITest\bin\Release\APITest.dll.config
+C:\TaskManagerAPI\APITest\bin\Release\APITest.dll
+C:\TaskManagerAPI\APITest\bin\Release\APITest.pdb
+C:\TaskManagerAPI\APITest\bin\Release\Castle.Core.dll
+C:\TaskManagerAPI\APITest\bin\Release\Common.dll
+C:\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\TaskManagerAPI\APITest\bin\Release\Moq.dll
+C:\TaskManagerAPI\APITest\bin\Release\Repository.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Http.dll
+C:\TaskManagerAPI\APITest\bin\Release\TaskManagerAPI.dll
+C:\TaskManagerAPI\APITest\bin\Release\log4net.dll
+C:\TaskManagerAPI\APITest\bin\Release\EntityFramework.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Optimization.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Mvc.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Net.Http.Formatting.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Http.Cors.dll
+C:\TaskManagerAPI\APITest\bin\Release\Newtonsoft.Json.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Http.WebHost.dll
+C:\TaskManagerAPI\APITest\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Razor.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Razor.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Cors.dll
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Deployment.dll
+C:\TaskManagerAPI\APITest\bin\Release\Common.pdb
+C:\TaskManagerAPI\APITest\bin\Release\Repository.pdb
+C:\TaskManagerAPI\APITest\bin\Release\Repository.dll.config
+C:\TaskManagerAPI\APITest\bin\Release\TaskManagerAPI.pdb
+C:\TaskManagerAPI\APITest\bin\Release\TaskManagerAPI.dll.config
+C:\TaskManagerAPI\APITest\bin\Release\Castle.Core.xml
+C:\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\TaskManagerAPI\APITest\bin\Release\Moq.pdb
+C:\TaskManagerAPI\APITest\bin\Release\Moq.xml
+C:\TaskManagerAPI\APITest\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\TaskManagerAPI\APITest\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Http.xml
+C:\TaskManagerAPI\APITest\bin\Release\log4net.xml
+C:\TaskManagerAPI\APITest\bin\Release\EntityFramework.xml
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Optimization.xml
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Mvc.xml
+C:\TaskManagerAPI\APITest\bin\Release\System.Net.Http.Formatting.xml
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Http.Cors.xml
+C:\TaskManagerAPI\APITest\bin\Release\Newtonsoft.Json.xml
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Http.WebHost.xml
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.Razor.xml
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Razor.xml
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.xml
+C:\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Deployment.xml
+C:\TaskManagerAPI\APITest\obj\Release\APITest.csprojResolveAssemblyReference.cache
+C:\TaskManagerAPI\APITest\obj\Release\APITest.dll
+C:\TaskManagerAPI\APITest\obj\Release\APITest.pdb
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\ApplicationInsights.config
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\APITest.dll.config
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\APITest.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\APITest.pdb
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Castle.Core.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Common.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Moq.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Repository.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Http.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\TaskManagerAPI.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\log4net.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\EntityFramework.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Http.Cors.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Razor.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Cors.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Common.pdb
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Repository.pdb
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Repository.dll.config
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\TaskManagerAPI.pdb
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\TaskManagerAPI.dll.config
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Castle.Core.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Moq.pdb
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Moq.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Http.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\log4net.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\EntityFramework.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Optimization.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Http.Cors.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.Razor.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\obj\Release\APITest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\obj\Release\APITest.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\APITest\obj\Release\APITest.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\ApplicationInsights.config
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\APITest.dll.config
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\APITest.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\APITest.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Castle.Core.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Common.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Moq.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Repository.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Http.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\TaskManagerAPI.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\log4net.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\EntityFramework.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Optimization.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Mvc.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Http.Cors.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Razor.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Cors.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Common.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Repository.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Repository.dll.config
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\TaskManagerAPI.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\TaskManagerAPI.dll.config
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Castle.Core.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Moq.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Moq.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Http.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\log4net.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\EntityFramework.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Optimization.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Mvc.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Http.Cors.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.Razor.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\obj\Release\APITest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\obj\Release\APITest.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\obj\Release\APITest.pdb

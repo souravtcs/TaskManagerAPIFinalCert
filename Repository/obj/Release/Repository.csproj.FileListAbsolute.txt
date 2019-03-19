@@ -1,0 +1,38 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Repository\bin\Release\Repository.dll.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Repository\bin\Release\Repository.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Repository\bin\Release\Repository.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Repository\bin\Release\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Repository\bin\Release\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Repository\obj\Release\Repository.dll
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\TaskManagerAPI\Repository\obj\Release\Repository.pdb
+C:\Users\Admin\documents\visual studio 2017\Projects\TaskManagerAPI\Repository\obj\Release\Repository.csprojResolveAssemblyReference.cache
+C:\TaskManagerAPI\Repository\bin\Release\Repository.dll.config
+C:\TaskManagerAPI\Repository\bin\Release\Repository.dll
+C:\TaskManagerAPI\Repository\bin\Release\Repository.pdb
+C:\TaskManagerAPI\Repository\bin\Release\EntityFramework.dll
+C:\TaskManagerAPI\Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\TaskManagerAPI\Repository\bin\Release\EntityFramework.xml
+C:\TaskManagerAPI\Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\TaskManagerAPI\Repository\obj\Release\Repository.csprojResolveAssemblyReference.cache
+C:\TaskManagerAPI\Repository\obj\Release\Repository.dll
+C:\TaskManagerAPI\Repository\obj\Release\Repository.pdb
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Release\Repository.dll.config
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Release\Repository.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Release\Repository.pdb
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Release\EntityFramework.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Release\EntityFramework.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\obj\Release\Repository.dll
+C:\Users\Admin\Documents\Sourav-677687\Capsule Assignment\TaskManager\GitUpdated\TaskManagerAPI\Repository\obj\Release\Repository.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Release\Repository.dll.config
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Release\Repository.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Release\Repository.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Release\EntityFramework.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Release\EntityFramework.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\obj\Release\Repository.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\Repository\obj\Release\Repository.pdb

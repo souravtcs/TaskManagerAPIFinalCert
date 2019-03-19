@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TaskManagerModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'TaskManager.dbo.ParentTask' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="ParentTask">
+    <Key>
+      <PropertyRef Name="Parent_Task_Id" />
+    </Key>
+    <Property Name="Parent_Task_Id" Type="bigint" Nullable="false" />
+    <Property Name="Parent_Task_Name" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="ProjectId" />
+    </Key>
+    <Property Name="ProjectId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProjectName" Type="varchar" MaxLength="100" />
+    <Property Name="StartDate" Type="datetime" />
+    <Property Name="EndDate" Type="datetime" />
+    <Property Name="Priority" Type="int" />
+    <Property Name="isActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="Task">
+    <Key>
+      <PropertyRef Name="TaskId" />
+    </Key>
+    <Property Name="TaskId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ParentId" Type="bigint" />
+    <Property Name="TaskName" Type="varchar" MaxLength="100" />
+    <Property Name="StartDate" Type="datetime" />
+    <Property Name="EndDate" Type="datetime" />
+    <Property Name="Priority" Type="int" />
+    <Property Name="isActive" Type="bit" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="100" />
+    <Property Name="EmployeeId" Type="int" />
+    <Property Name="ProjectId" Type="bigint" />
+    <Property Name="TaskId" Type="bigint" />
+    <Property Name="isActive" Type="bit" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'TaskManager.dbo.vw_Tasks' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_Tasks">
+    <Key>
+      <PropertyRef Name="TaskId" />
+    </Key>
+    <Property Name="TaskId" Type="bigint" Nullable="false" />
+    <Property Name="TaskName" Type="varchar" MaxLength="100" />
+    <Property Name="Parent_Task_Id" Type="bigint" />
+    <Property Name="Parent_Task_Name" Type="varchar" MaxLength="100" />
+    <Property Name="StartDate" Type="datetime" />
+    <Property Name="EndDate" Type="datetime" />
+    <Property Name="Priority" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'TaskManager.dbo.vw_Users' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="vw_Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="bigint" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="100" />
+    <Property Name="EmployeeId" Type="int" />
+    <Property Name="ProjectName" Type="varchar" MaxLength="100" />
+    <Property Name="TaskName" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="TaskManagerModelStoreContainer">
+    <EntitySet Name="Project" EntityType="Self.Project" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Task" EntityType="Self.Task" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="ParentTask" EntityType="Self.ParentTask" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [ParentTask].[Parent_Task_Id] AS [Parent_Task_Id], 
+    [ParentTask].[Parent_Task_Name] AS [Parent_Task_Name]
+    FROM [dbo].[ParentTask] AS [ParentTask]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="vw_Tasks" EntityType="Self.vw_Tasks" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_Tasks].[TaskId] AS [TaskId], 
+    [vw_Tasks].[TaskName] AS [TaskName], 
+    [vw_Tasks].[Parent_Task_Id] AS [Parent_Task_Id], 
+    [vw_Tasks].[Parent_Task_Name] AS [Parent_Task_Name], 
+    [vw_Tasks].[StartDate] AS [StartDate], 
+    [vw_Tasks].[EndDate] AS [EndDate], 
+    [vw_Tasks].[Priority] AS [Priority]
+    FROM [dbo].[vw_Tasks] AS [vw_Tasks]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="vw_Users" EntityType="Self.vw_Users" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [vw_Users].[UserId] AS [UserId], 
+    [vw_Users].[Name] AS [Name], 
+    [vw_Users].[EmployeeId] AS [EmployeeId], 
+    [vw_Users].[ProjectName] AS [ProjectName], 
+    [vw_Users].[TaskName] AS [TaskName]
+    FROM [dbo].[vw_Users] AS [vw_Users]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
