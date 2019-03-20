@@ -25,13 +25,13 @@ namespace TaskManagerAPI.Controllers
             this._parentTaskrepository = new Repository<ParentTask>();
             this._log = new Logger();
         }
-        //public TaskController(IRepository<Task> mockTaskrepository, IRepository<vw_Tasks> mockvwTaskrepository, IRepository<ParentTask> parentTaskrepository, ILogger mocklog)
-        //{
-        //    this._Taskrepository = mockTaskrepository;
-        //    this._vwTaskrepository = mockvwTaskrepository;
-        //    this._parentTaskrepository = parentTaskrepository;
-        //    this._log = mocklog;
-        //}
+        public TaskController(IRepository<Task> mockTaskrepository, IRepository<vw_Tasks> mockvwTaskrepository, IRepository<ParentTask> parentTaskrepository, ILogger mocklog)
+        {
+            this._Taskrepository = mockTaskrepository;
+            this._vwTaskrepository = mockvwTaskrepository;
+            this._parentTaskrepository = parentTaskrepository;
+            this._log = mocklog;
+        }
         [Route("api/Task/GetTasks")]
         [HttpGet]
         public HttpResponseMessage GetTasks()

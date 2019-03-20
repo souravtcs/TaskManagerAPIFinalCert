@@ -20,14 +20,7 @@ namespace TaskManagerAPI.Controllers
         {
             this._Projectrepository = new Repository<Project>();
             this._log = new Logger();
-        }
-        //public TaskController(IRepository<Task> mockTaskrepository, IRepository<vw_Tasks> mockvwTaskrepository, IRepository<ParentTask> parentTaskrepository, ILogger mocklog)
-        //{
-        //    this._Taskrepository = mockTaskrepository;
-        //    this._vwTaskrepository = mockvwTaskrepository;
-        //    this._parentTaskrepository = parentTaskrepository;
-        //    this._log = mocklog;
-        //}
+        }        
         [Route("api/Project/GetProjects")]
         [HttpGet]
         public HttpResponseMessage GetProjects()
@@ -36,15 +29,17 @@ namespace TaskManagerAPI.Controllers
             HttpResponseMessage response = null;
             try
             {
-                result = _Projectrepository.GetAll().Select(s => new ProjectModel
-                {
-                    ProjectId = s.ProjectId,
-                    ProjectName = s.ProjectName,
-                    StartDate = s.StartDate,
-                    EndDate = s.EndDate,
-                    Priority = s.Priority,
-                    ProjectStatus = s.isActive.GetValueOrDefault()?1:0
-                }).ToList();
+                result = _Projectrepository.GetAll()
+                    .Where(s=>s.isActive.GetValueOrDefault() == true)
+                    .Select(s => new ProjectModel
+                    {
+                        ProjectId = s.ProjectId,
+                        ProjectName = s.ProjectName,
+                        StartDate = s.StartDate,
+                        EndDate = s.EndDate,
+                        Priority = s.Priority,
+                        ProjectStatus = 1
+                    }).ToList();
                 response = Request.CreateResponse(HttpStatusCode.OK, result);
                 //var c = 0;
                 //var d = (1 / c);
@@ -72,7 +67,7 @@ namespace TaskManagerAPI.Controllers
                     StartDate = s.StartDate,
                     EndDate = s.EndDate,
                     Priority = s.Priority,
-                    ProjectStatus = s.isActive.GetValueOrDefault() ? 1 : 0
+                    ProjectStatus = 1
                 };
                 response = Request.CreateResponse(HttpStatusCode.OK, data);
             }

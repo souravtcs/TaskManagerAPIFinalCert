@@ -286,3 +286,6 @@ C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITes
 C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\obj\Debug\APITest.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\obj\Debug\APITest.dll
 C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\obj\Debug\APITest.pdb
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Sourav-677687\Final Certification\TaskManagerAPI\APITest\bin\Debug\LoadTest1.loadtest
